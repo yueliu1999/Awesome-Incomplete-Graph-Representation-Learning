@@ -27,3 +27,8 @@
 
 
 ## Year 2017
+
+
+## Other related awesome
+* https://github.com/ChandlerBang/awesome-self-supervised-gnn(https://github.com/src-d/kmcuda)
+* https://github.com/SXKDZ/awesome-self-supervised-learning-for-graphs(https://github.com/src-d/kmcuda)
