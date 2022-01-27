@@ -28,6 +28,9 @@
 
 ## Year 2020
 1. [NeurIPS 2020] **Handling Missing Data with Graph Representation Learning** \[[paper]()|[code]()]
+2. [NN 2020] **Missing data imputation with adversarially-trained graph convolutional networks** \[[paper]()|[code]()]
+3. [ICLR 2020] **Inductive Matrix Completion Based on Graph Neural Networks** \[[paper]()|[code]()]
+
 
 ## Year 2019
 1. [Arxiv 2019] **Node Attribute Generation on Graphs** \[[paper]()|[code]()]
@@ -36,6 +39,7 @@
 
 
 ## Year 2017
+1. [Arxiv 2017] **Graph Convolutional Matrix Completion** \[[paper]()|[code]()]
 
 
 ## Other related awesome
