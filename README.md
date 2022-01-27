@@ -44,7 +44,8 @@
 
 
 ## Year 2017
-1. [Arxiv 2017] **Graph Convolutional Matrix Completion** \[[paper]()|[code]()]
+1. [NeurIPS 2017] **Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks** \[[paper]()|[code]()]
+2. [Arxiv 2017] **Graph Convolutional Matrix Completion** \[[paper]()|[code]()]
 
 
 ## Other related awesome
