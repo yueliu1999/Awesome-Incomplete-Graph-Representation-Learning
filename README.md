@@ -30,5 +30,5 @@
 
 
 ## Other related awesome
-* [code](https://github.com/src-d/kmcuda)
-* [code](https://github.com/src-d/kmcuda)
+* [awesome-self-supervised-gnn](https://github.com/ChandlerBang/awesome-self-supervised-gnn)
+* [awesome-self-supervised-learning-for-graphs](https://github.com/SXKDZ/awesome-self-supervised-learning-for-graphs)
