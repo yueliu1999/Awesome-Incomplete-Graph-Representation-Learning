@@ -37,3 +37,4 @@
 * [awesome-self-supervised-gnn](https://github.com/ChandlerBang/awesome-self-supervised-gnn)
 * [awesome-self-supervised-learning-for-graphs](https://github.com/SXKDZ/awesome-self-supervised-learning-for-graphs)
 * [awesome-deep-graph-clustering](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering)
+
