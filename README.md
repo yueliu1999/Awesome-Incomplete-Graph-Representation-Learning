@@ -18,7 +18,7 @@
 1. [IEEE TPAMI 2022] **Learning on Attribute-Missing Graphs** \[[paper]()|[code]()]
 
 ## Year 2021
-1. [WWWW 2021] **Heterogeneous Graph Neural Network via Attribute Completion** \[[paper]()|[code]()]
+1. [WWW 2021] **Heterogeneous Graph Neural Network via Attribute Completion** \[[paper]()|[code]()]
 
 ## Year 2019
 
