@@ -1,2 +1,2 @@
-# awesome-attribute-incomplete-missing-graph-neural-networks
-Academic literature about attribute-incomplete/missing graph neural networks. 
+# awesome-incomplete-graph-representation-learning
+Academic literature about incomplete graph representation learning. 
