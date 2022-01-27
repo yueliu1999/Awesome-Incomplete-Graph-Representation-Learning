@@ -17,7 +17,8 @@
 ## Year 2022
 1. [IEEE TPAMI 2022] **Learning on Attribute-Missing Graphs** \[[paper]()|[code]()]
 2. [WWW 2022] **Trustworthy Knowledge Graph Completion Based on Multi-sourced Noisy Data** \[[paper]()|[code]()]
-3. [Arxiv 2022] **MGAE: Masked Autoencoders for Self-Supervised Learning on Graphs** \[[paper]()|[code]()]
+3. [PR 2022] **Incomplete multiview nonnegative representation learning with multiple graphs** \[[paper]()|[code]()]
+4. [Arxiv 2022] **MGAE: Masked Autoencoders for Self-Supervised Learning on Graphs** \[[paper]()|[code]()]
 
 ## Year 2021
 1. [WWW 2021] **Heterogeneous Graph Neural Network via Attribute Completion** \[[paper]()|[code]()]
@@ -43,16 +44,19 @@
 
 ## Year 2020
 1. [NeurIPS 2020] **Handling Missing Data with Graph Representation Learning** \[[paper]()|[code]()]
-2. [NN 2020] **Missing data imputation with adversarially-trained graph convolutional networks** \[[paper]()|[code]()]
-3. [ICLR 2020] **Inductive Matrix Completion Based on Graph Neural Networks** \[[paper]()|[code]()]
-4. [EMNLP 2020] **TeMP: Temporal Message Passing for Temporal Knowledge Graph Completion** \[[paper]()|[code]()]
-5. [EMNLP 2020] **Multilingual Knowledge Graph Completion via Ensemble Knowledge Transfer** \[[paper]()|[code]()]
-6. [EMNLP 2020] **MCMH: Learning Multi-Chain Multi-Hop Rules for Knowledge Graph Reasoning** \[[paper]()|[code]()]
-7. [Arxiv 2020] **Node Attribute Completion in Knowledge Graphs with Multi-Relational Propagation** \[[paper]()|[code]()]
+2. [NeurIPS 2020] **Matrix Completion with Hierarchical Graph Side Information** \[[paper]()|[code]()]
+3. [NN 2020] **Missing data imputation with adversarially-trained graph convolutional networks** \[[paper]()|[code]()]
+4. [ICLR 2020] **Inductive Matrix Completion Based on Graph Neural Networks** \[[paper]()|[code]()]
+5. [EMNLP 2020] **TeMP: Temporal Message Passing for Temporal Knowledge Graph Completion** \[[paper]()|[code]()]
+6. [EMNLP 2020] **Multilingual Knowledge Graph Completion via Ensemble Knowledge Transfer** \[[paper]()|[code]()]
+7. [EMNLP 2020] **MCMH: Learning Multi-Chain Multi-Hop Rules for Knowledge Graph Reasoning** \[[paper]()|[code]()]
+8. [Arxiv 2020] **Node Attribute Completion in Knowledge Graphs with Multi-Relational Propagation** \[[paper]()|[code]()]
 
 
 ## Year 2019
-1. [Arxiv 2019] **Node Attribute Generation on Graphs** \[[paper]()|[code]()]
+1. [KBS 2019] **Adversarial Learning for Multi-view Network Embedding on Incomplete Graphs** \[[paper]()|[code]()]
+2. [ICDM 2019] **Learning to Hash for Efficient Search over Incomplete Knowledge Graphs** \[[paper]()|[code]()]
+3. [Arxiv 2019] **Node Attribute Generation on Graphs** \[[paper]()|[code]()]
 
 ## Year 2018
 1. [KDD 2018] **Graph Convolutional Neural Networks for Web-Scale Recommender Systems** \[[paper]()|[code]()]
