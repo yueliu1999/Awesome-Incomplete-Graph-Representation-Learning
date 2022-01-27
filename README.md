@@ -33,6 +33,7 @@
 
 
 ## Other related awesome
+* [awesome-graph-representation-learning](https://github.com/zlpure/awesome-graph-representation-learning)
 * [awesome-graph-self-supervised-learning](https://github.com/LirongWu/awesome-graph-self-supervised-learning)
 * [awesome-self-supervised-gnn](https://github.com/ChandlerBang/awesome-self-supervised-gnn)
 * [awesome-self-supervised-learning-for-graphs](https://github.com/SXKDZ/awesome-self-supervised-learning-for-graphs)
