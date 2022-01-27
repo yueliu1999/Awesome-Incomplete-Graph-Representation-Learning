@@ -12,7 +12,7 @@
 
 
 # Awesome Incomplete Graph Representation Learning
-<p align = "justify">Graph representation learning (GRL) has been intensively studied and widely applied into various applications recently, such as social network, knowledge graph, etc. One underlying assumption commonly adopted by these methods is that all attributes of nodes are complete. However, in practice, this assumption may not hold due to 1) the absence of particular attributes; 2) the absence of all the attributes of specific nodes. Here we provide collections for incomplete graph representation learning methods. If interested, welcome to contanct [wenxuantu@163.com].</p>
+<p align = "justify">Graph representation learning (GRL) has been intensively studied and widely applied into various applications recently, such as social network, knowledge graph, etc. One underlying assumption commonly adopted by these methods is that all attributes of nodes are complete. However, in practice, this assumption may not hold due to 1) the absence of particular attributes; 2) the absence of all the attributes of specific nodes. Here we provide collections for incomplete graph representation learning methods. If interested, welcome to contanct [wenxuantu@163.com]. </p>
 
 
 ## Year 2022
