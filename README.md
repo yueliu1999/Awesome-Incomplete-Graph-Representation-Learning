@@ -19,12 +19,18 @@
 
 ## Year 2021
 1. [WWW 2021] **Heterogeneous Graph Neural Network via Attribute Completion** \[[paper]()|[code]()]
-2. [Arxiv 2021] **Incomplete Graph Representation and Learning via Partial Graph Neural Networks** \[[paper]()|[code]()]
-3. [Arxiv 2021] **Siamese Attribute-missing Graph Auto-encoder** \[[paper]()|[code]()]
-4. [KDD Workshop 2021] **On Positional and Structural Node Features for Graph Neural Networks on Non-attributed Graphs** \[[paper]()|[code]()]
+2. [FGCS 2021] **Graph Convolutional Networks for Graphs Containing Missing Features** \[[paper]()|[code]()]
+3. 
+4. [Arxiv 2021] **Incomplete Graph Representation and Learning via Partial Graph Neural Networks** \[[paper]()|[code]()]
+5. [Arxiv 2021] **Siamese Attribute-missing Graph Auto-encoder** \[[paper]()|[code]()]
+6. [Arxiv 2021] **Wasserstein diffusion on graphs with missing attributes** \[[paper]()|[code]()]
+7. [KDD Workshop 2021] **On Positional and Structural Node Features for Graph Neural Networks on Non-attributed Graphs** \[[paper]()|[code]()]
+
+## Year 2020
+1. [NeurIPS 2020] **Handling Missing Data with Graph Representation Learning** \[[paper]()|[code]()]
 
 ## Year 2019
-
+1. [Arxiv 2019] **Node Attribute Generation on Graphs** \[[paper]()|[code]()]
 
 ## Year 2018
 
