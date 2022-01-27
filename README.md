@@ -20,7 +20,7 @@
 ## Year 2021
 1. [WWW 2021] **Heterogeneous Graph Neural Network via Attribute Completion** \[[paper]()|[code]()]
 2. [FGCS 2021] **Graph Convolutional Networks for Graphs Containing Missing Features** \[[paper]()|[code]()]
-3. 
+3. [Arxiv 2021] **On the Unreasonable Effectiveness of Feature propagation in Learning on Graphs with Missing Node Features** \[[paper]()|[code]()]
 4. [Arxiv 2021] **Incomplete Graph Representation and Learning via Partial Graph Neural Networks** \[[paper]()|[code]()]
 5. [Arxiv 2021] **Siamese Attribute-missing Graph Auto-encoder** \[[paper]()|[code]()]
 6. [Arxiv 2021] **Wasserstein diffusion on graphs with missing attributes** \[[paper]()|[code]()]
