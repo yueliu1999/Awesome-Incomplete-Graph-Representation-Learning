@@ -30,6 +30,7 @@
 
 
 ## Other related awesome
+* [awesome-graph-self-supervised-learning](https://github.com/LirongWu/awesome-graph-self-supervised-learning)
 * [awesome-self-supervised-gnn](https://github.com/ChandlerBang/awesome-self-supervised-gnn)
 * [awesome-self-supervised-learning-for-graphs](https://github.com/SXKDZ/awesome-self-supervised-learning-for-graphs)
 * [awesome-deep-graph-clustering](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering)
