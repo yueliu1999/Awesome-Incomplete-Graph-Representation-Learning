@@ -19,6 +19,9 @@
 
 ## Year 2021
 1. [WWW 2021] **Heterogeneous Graph Neural Network via Attribute Completion** \[[paper]()|[code]()]
+2. [Arxiv 2021] **Incomplete Graph Representation and Learning via Partial Graph Neural Networks** \[[paper]()|[code]()]
+3. [Arxiv 2021] **Siamese Attribute-missing Graph Auto-encoder** \[[paper]()|[code]()]
+4. [KDD Workshop 2021] **On Positional and Structural Node Features for Graph Neural Networks on Non-attributed Graphs** \[[paper]()|[code]()]
 
 ## Year 2019
 
