@@ -22,17 +22,19 @@
 
 ## Year 2021
 1. [WWW 2021] **Heterogeneous Graph Neural Network via Attribute Completion** \[[paper]()|[code]()]
-2. [FGCS 2021] **Graph Convolutional Networks for Graphs Containing Missing Features** \[[paper]()|[code]()]
-3. [KDD Workshop 2021] **On Positional and Structural Node Features for Graph Neural Networks on Non-attributed Graphs** \[[paper]()|[code]()]
-4. [Arxiv 2021] **On the Unreasonable Effectiveness of Feature propagation in Learning on Graphs with Missing Node Features** \[[paper]()|[code]()]
-5. [Arxiv 2021] **Incomplete Graph Representation and Learning via Partial Graph Neural Networks** \[[paper]()|[code]()]
-6. [Arxiv 2021] **Siamese Attribute-missing Graph Auto-encoder** \[[paper]()|[code]()]
-7. [Arxiv 2021] **Wasserstein diffusion on graphs with missing attributes** \[[paper]()|[code]()]
-8. [Arxiv 2021] **Cold Brew: Distilling Graph Node Representations with Incomplete or Missing Neighborhoods** \[[paper]()|[code]()]
-9. [Arxiv 2021] **Link-Intensive Alignment for Incomplete Knowledge Graphs** \[[paper]()|[code]()]
-10. [Arxiv 2021] **Incomplete Multi-view Clustering via Cross-view Relation Transfer** \[[paper]()|[code]()]
-11. [Arxiv 2021] **VICAUSE: Simultaneous Missing Value Imputation and Causal Discovery with Groups** \[[paper]()|[code]()]
-12. [Arxiv 2021] **CORGI: Content-Rich Graph Neural Networks with Attention** \[[paper]()|[code]()]
+2. [NeurIPS 2021] **Subgraph Federated Learning with Missing Neighbor Generation** \[[paper]()|[code]()]
+3. [FGCS 2021] **Graph Convolutional Networks for Graphs Containing Missing Features** \[[paper]()|[code]()]
+4. [KDD Workshop 2021] **On Positional and Structural Node Features for Graph Neural Networks on Non-attributed Graphs** \[[paper]()|[code]()]
+5. [CIKM 2021] **Inductive Matrix Completion Using Graph Autoencoder** \[[paper]()|[code]()]
+6. [Arxiv 2021] **On the Unreasonable Effectiveness of Feature propagation in Learning on Graphs with Missing Node Features** \[[paper]()|[code]()]
+7. [Arxiv 2021] **Incomplete Graph Representation and Learning via Partial Graph Neural Networks** \[[paper]()|[code]()]
+8. [Arxiv 2021] **Siamese Attribute-missing Graph Auto-encoder** \[[paper]()|[code]()]
+9. [Arxiv 2021] **Wasserstein diffusion on graphs with missing attributes** \[[paper]()|[code]()]
+10. [Arxiv 2021] **Cold Brew: Distilling Graph Node Representations with Incomplete or Missing Neighborhoods** \[[paper]()|[code]()]
+11. [Arxiv 2021] **Link-Intensive Alignment for Incomplete Knowledge Graphs** \[[paper]()|[code]()]
+12. [Arxiv 2021] **Incomplete Multi-view Clustering via Cross-view Relation Transfer** \[[paper]()|[code]()]
+13. [Arxiv 2021] **VICAUSE: Simultaneous Missing Value Imputation and Causal Discovery with Groups** \[[paper]()|[code]()]
+14. [Arxiv 2021] **CORGI: Content-Rich Graph Neural Networks with Attention** \[[paper]()|[code]()]
 
 
 
