@@ -15,7 +15,7 @@
 <p align = "justify">Graph representation learning (GRL) has been intensively studied and widely applied into various applications recently, such as social network, knowledge graph, etc. One underlying assumption commonly adopted by these methods is that all attributes of nodes are complete. However, in practice, this assumption may not hold due to 1) the absence of particular attributes; 2) the absence of all the attributes of specific nodes. Here we provide collections for incomplete graph representation learning literature. If interested, welcome to contanct wenxuantu@163.com. </p>
 
 ## Year 2022
-1. K-Means: "Algorithm AS 136: A k-means clustering algorithm" \[[paper](http://danida.vnu.edu.vn/cpis/files/Refs/LAD/Algorithm%20AS%20136-%20A%20K-Means%20Clustering%20Algorithm.pdf)|[code](https://github.com/src-d/kmcuda)]
+1. [IEEE TPAMI 2022] Learning on Attribute-Missing Graphs \[[paper](http://danida.vnu.edu.vn/cpis/files/Refs/LAD/Algorithm%20AS%20136-%20A%20K-Means%20Clustering%20Algorithm.pdf)|[code](https://github.com/src-d/kmcuda)]
 
 ## Year 2021
 
