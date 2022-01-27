@@ -11,11 +11,16 @@
 [![visitors][visitors-img]][adgc-url]
 
 
-# awesome-incomplete-graph-representation-learning
+# awesome-incomplete-graph-representation-learning (IGRL)
 Academic literature about incomplete graph representation learning. If interested, welcome to contanct [wenxuantu@163.com].
 
-## Year 2022
+# Background
+Graph representation learning (GRL), which aims to learn a graph neural network that embeds nodes to a low-dimensional latent space by preserving node attributes and graph structures, has been intensively studied and widely applied into various applications. One underlying assumption commonly adopted by these methods is that all attributes of nodes are complete. However, in practice, this assumption may not hold due to 1) the absence of particular attributes; 2) the absence of all the attributes of specific nodes. These circumstances are usually called attribute incomplete and attribute missing, respectively
 
+
+
+## Year 2022
+1. K-Means: "Algorithm AS 136: A k-means clustering algorithm" \[[paper](http://danida.vnu.edu.vn/cpis/files/Refs/LAD/Algorithm%20AS%20136-%20A%20K-Means%20Clustering%20Algorithm.pdf)|[code](https://github.com/src-d/kmcuda)]
 
 ## Year 2021
 
