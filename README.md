@@ -29,6 +29,11 @@
 6. [Arxiv 2021] **Siamese Attribute-missing Graph Auto-encoder** \[[paper]()|[code]()]
 7. [Arxiv 2021] **Wasserstein diffusion on graphs with missing attributes** \[[paper]()|[code]()]
 8. [Arxiv 2021] **Cold Brew: Distilling Graph Node Representations with Incomplete or Missing Neighborhoods** \[[paper]()|[code]()]
+9. [Arxiv 2021] **Link-Intensive Alignment for Incomplete Knowledge Graphs** \[[paper]()|[code]()]
+10. [Arxiv 2021] **Incomplete Multi-view Clustering via Cross-view Relation Transfer** \[[paper]()|[code]()]
+11. [Arxiv 2021] **VICAUSE: Simultaneous Missing Value Imputation and Causal Discovery with Groups** \[[paper]()|[code]()]
+12. [Arxiv 2021] **CORGI: Content-Rich Graph Neural Networks with Attention** \[[paper]()|[code]()]
+
 
 
 ## Year 2020
