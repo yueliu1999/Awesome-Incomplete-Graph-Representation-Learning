@@ -55,12 +55,16 @@
 1. [Arxiv 2019] **Node Attribute Generation on Graphs** \[[paper]()|[code]()]
 
 ## Year 2018
-1. [ECCV Workshop 2018] **Incomplete Multi-view Clustering via Graph Regularized Matrix Factorization** \[[paper]()|[code]()]
-
+1. [KDD 2018] **Graph Convolutional Neural Networks for Web-Scale Recommender Systems** \[[paper]()|[code]()]
+2. [ECCV Workshop 2018] **Incomplete Multi-view Clustering via Graph Regularized Matrix Factorization** \[[paper]()|[code]()]
+3. [RecSys 2018] **Spectral collaborative filtering** \[[paper]()|[code]()]
 
 ## Year 2017
 1. [NeurIPS 2017] **Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks** \[[paper]()|[code]()]
 2. [Arxiv 2017] **Graph Convolutional Matrix Completion** \[[paper]()|[code]()]
+
+## Year 2014
+1. [Arxiv 2014] **Matrix Completion on Graphs** \[[paper]()|[code]()]
 
 
 ## Other related awesome
