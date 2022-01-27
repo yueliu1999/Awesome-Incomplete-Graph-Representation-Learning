@@ -12,11 +12,7 @@
 
 
 # awesome-incomplete-graph-representation-learning (IGRL)
-Academic literature about incomplete graph representation learning. If interested, welcome to contanct [wenxuantu@163.com].
-
-# Background
-Graph representation learning (GRL), which aims to learn a graph neural network that embeds nodes to a low-dimensional latent space by preserving node attributes and graph structures, has been intensively studied and widely applied into various applications. One underlying assumption commonly adopted by these methods is that all attributes of nodes are complete. However, in practice, this assumption may not hold due to 1) the absence of particular attributes; 2) the absence of all the attributes of specific nodes. These circumstances are usually called attribute incomplete and attribute missing, respectively
-
+Graph representation learning (GRL) has been intensively studied and widely applied into various applications, such as social network, knowledge graph, etc. One underlying assumption commonly adopted by these methods is that all attributes of nodes are complete. However, in practice, this assumption may not hold due to 1) the absence of particular attributes; 2) the absence of all the attributes of specific nodes. Here we provide collections for awesome incomplete graph representation learning resources. If interested, welcome to contanct [wenxuantu@163.com].
 
 
 ## Year 2022
