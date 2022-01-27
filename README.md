@@ -76,4 +76,5 @@
 * [awesome-self-supervised-gnn](https://github.com/ChandlerBang/awesome-self-supervised-gnn)
 * [awesome-self-supervised-learning-for-graphs](https://github.com/SXKDZ/awesome-self-supervised-learning-for-graphs)
 
-
+## Contact
+If interested, you are welcome to contribute this repo by contracting wenxuantu@163.com. 
