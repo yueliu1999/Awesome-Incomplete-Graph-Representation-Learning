@@ -16,7 +16,8 @@
 
 ## Year 2022
 1. [IEEE TPAMI 2022] **Learning on Attribute-Missing Graphs** \[[paper]()|[code]()]
-2. [Arxiv 2022] **MGAE: Masked Autoencoders for Self-Supervised Learning on Graphs** \[[paper]()|[code]()]
+2. [WWW 2022] **Trustworthy Knowledge Graph Completion Based on Multi-sourced Noisy Data** \[[paper]()|[code]()]
+3. [Arxiv 2022] **MGAE: Masked Autoencoders for Self-Supervised Learning on Graphs** \[[paper]()|[code]()]
 
 ## Year 2021
 1. [WWW 2021] **Heterogeneous Graph Neural Network via Attribute Completion** \[[paper]()|[code]()]
@@ -35,6 +36,8 @@
 14. [Arxiv 2021] **Incomplete Multi-view Clustering via Cross-view Relation Transfer** \[[paper]()|[code]()]
 15. [Arxiv 2021] **VICAUSE: Simultaneous Missing Value Imputation and Causal Discovery with Groups** \[[paper]()|[code]()]
 16. [Arxiv 2021] **CORGI: Content-Rich Graph Neural Networks with Attention** \[[paper]()|[code]()]
+17. [Arxiv 2021] **Two-view Graph Neural Networks for Knowledge Graph Completion** \[[paper]()|[code]()]
+18. [Arxiv 2021] **SMORE: Knowledge Graph Completion and Multi-hop Reasoning in Massive Knowledge Graphs** \[[paper]()|[code]()]
 
 
 
