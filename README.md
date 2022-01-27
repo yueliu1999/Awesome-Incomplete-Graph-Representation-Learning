@@ -11,7 +11,7 @@
 [![visitors][visitors-img]][adgc-url]
 
 
-# awesome-incomplete-graph-representation-learning (IGRL)
+# Awesome-Incomplete-Graph-Representation-Learning
 Graph representation learning (GRL) has been intensively studied and widely applied into various applications, such as social network, knowledge graph, etc. One underlying assumption commonly adopted by these methods is that all attributes of nodes are complete. However, in practice, this assumption may not hold due to 1) the absence of particular attributes; 2) the absence of all the attributes of specific nodes. Here we provide collections for awesome incomplete graph representation learning resources. If interested, welcome to contanct [wenxuantu@163.com].
 
 
