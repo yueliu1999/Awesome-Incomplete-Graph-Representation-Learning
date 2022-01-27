@@ -12,14 +12,18 @@
 
 
 # awesome-incomplete-graph-representation-learning
-Academic literature about incomplete graph representation learning. 
+Academic literature about incomplete graph representation learning. If interested, welcome to contanct [wenxuantu@163.com].
 
 ## Year 2022
 
+
 ## Year 2021
+
 
 ## Year 2019
 
+
 ## Year 2018
+
 
 ## Year 2017
