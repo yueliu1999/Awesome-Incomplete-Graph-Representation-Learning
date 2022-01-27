@@ -6,7 +6,6 @@
 [adgc-url]: https://github.com/WxTu/awesome-incomplete-graph-representation-learning
 
 
-## Paper
 [![GitHub stars][stars-img]][stars-url]
 [![GitHub forks][fork-img]][fork-url]
 [![visitors][visitors-img]][adgc-url]
