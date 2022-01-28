@@ -17,7 +17,7 @@
 ## Year 2022
 1. [IEEE TPAMI 2022] **Learning on Attribute-Missing Graphs** \[[paper]()|[code]()]
 2. [WWW 2022] **Trustworthy Knowledge Graph Completion Based on Multi-sourced Noisy Data** \[[paper]()|[code]()]
-3. [PR 2022] **Incomplete multiview nonnegative representation learning with multiple graphs** \[[paper]()|[code]()]
+3. [PR 2022] **Incomplete Multiview Nonnegative Representation Learning with Multiple Graphs** \[[paper]()|[code]()]
 4. [Arxiv 2022] **MGAE: Masked Autoencoders for Self-Supervised Learning on Graphs** \[[paper]()|[code]()]
 
 ## Year 2021
@@ -45,7 +45,7 @@
 ## Year 2020
 1. [NeurIPS 2020] **Handling Missing Data with Graph Representation Learning** \[[paper]()|[code]()]
 2. [NeurIPS 2020] **Matrix Completion with Hierarchical Graph Side Information** \[[paper]()|[code]()]
-3. [NN 2020] **Missing data imputation with adversarially-trained graph convolutional networks** \[[paper]()|[code]()]
+3. [NN 2020] **Missing Data Imputation with Adversarially-trained Graph Convolutional Networks** \[[paper]()|[code]()]
 4. [ICLR 2020] **Inductive Matrix Completion Based on Graph Neural Networks** \[[paper]()|[code]()]
 5. [EMNLP 2020] **TeMP: Temporal Message Passing for Temporal Knowledge Graph Completion** \[[paper]()|[code]()]
 6. [EMNLP 2020] **Multilingual Knowledge Graph Completion via Ensemble Knowledge Transfer** \[[paper]()|[code]()]
